@@ -1,0 +1,16 @@
+.bold {
+  font-weight: bold;
+  font-style: arial;
+  color: red;
+}
+
+#special {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#info {
+  font-weight: bold;
+  font-style: sans-serif; 
+}
